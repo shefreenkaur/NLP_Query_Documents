@@ -122,4 +122,3 @@ Both programs are organized into a reusable `DocumentQuery` class that:
 - Calculates document relevance scores
 - Returns ranked results
 
-All paths in the code are relative to the parent project folder, making it easy to run in any environment.
