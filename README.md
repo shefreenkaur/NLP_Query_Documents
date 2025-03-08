@@ -43,7 +43,7 @@ pip install easyocr PyMuPDF
 
 ## Usage
 
-1. Make sure you've run the word frequency program from Assignment 1 to generate the `word_frequencies.csv` file:
+1. Make sure you have the `word_frequencies.csv` file:
    - Place PDF files in the `data` subfolder
    - Run the word frequency program to generate the CSV
 
